@@ -10,6 +10,7 @@ import EventDemo4 from './components/EventDemo4.vue'
 import EventDemo5 from './components/EventDemo5.vue'
 import EventDemo6 from './components/EventDemo6.vue'
 import ArrayList from './components/ArrayList.vue'
+import ComputedDemo from './components/ComputedDemo.vue'
 </script>
 
 <template>
@@ -23,5 +24,6 @@ import ArrayList from './components/ArrayList.vue'
   <EventDemo4/>
   <EventDemo5/>
   <EventDemo6/> -->
-  <ArrayList/>
+  <!-- <ArrayList/> -->
+   <ComputedDemo/>
 </template>
