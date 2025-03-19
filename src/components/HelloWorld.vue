@@ -20,9 +20,9 @@ export default{
 }
 </script>
 
-<style>
+<!-- <style>
 .active{
   color:brown;
   font-size: 40px;
 }
-</style>
+</style> -->
